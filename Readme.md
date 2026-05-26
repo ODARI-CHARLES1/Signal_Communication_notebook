@@ -7,7 +7,9 @@
 <br>
 
 Prepared by
+
 **Odari K. Charles**
+
 Department of Electrical and Electronic Engineering
 
 </div>
