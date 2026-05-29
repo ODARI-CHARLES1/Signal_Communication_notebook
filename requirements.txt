@@ -1,0 +1,12 @@
+
+Library	
+NumPy	
+Matplotlib	
+SciPy	
+SymPy
+pathlib	
+os	
+warnings	
+seaborn	
+plotly
+scienceplots
