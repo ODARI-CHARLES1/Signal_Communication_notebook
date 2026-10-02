@@ -70,31 +70,6 @@ A structured engineering notebook repository for learning and implementing the f
 
 ---
 
-## Repository Structure
-
-```bash
-signal-and-communication-1/
-│
-├── notebooks/
-│   ├── 01_signals_basics.ipynb
-│   ├── 02_signal_operations.ipynb
-│   ├── 03_convolution.ipynb
-│   ├── 04_fourier_series.ipynb
-│   ├── 05_fourier_transform.ipynb
-│   ├── 06_sampling_theorem.ipynb
-│   ├── 07_am_modulation.ipynb
-│   ├── 08_fm_modulation.ipynb
-│   └── 09_noise_and_filters.ipynb
-│
-├── assets/
-│   ├── images/
-│   └── plots/
-│
-├── requirements.txt
-└── README.md
-```
-
----
 
 ## Learning Objectives
 
